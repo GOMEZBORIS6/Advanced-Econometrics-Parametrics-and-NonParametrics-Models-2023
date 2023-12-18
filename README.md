@@ -5,7 +5,7 @@ The objective of this study is to analyze the determinants of Airbnb prices in E
 
 **Data**
 
-To analyse the determinant s of Airbnb prices in European cities, we use a database available on the [Kaggle website](https://www.kaggle.com/datasets/thedevastator/airbnb-prices-in-european-cities) The databas e is entitled Airbnb prices in European cities and was provided *Gyodi* and *Nawaro* who used it to analyse the determinants of Airbnb prices using a sp at ial econometrics approach.
+To analyse the determinant s of Airbnb prices in European cities, we use a database available on the [Kaggle website](https://www.kaggle.com/datasets/thedevastator/airbnb-prices-in-european-cities) The databas e is entitled Airbnb prices in European cities and was provided *Gyodi* and *Nawaro* who used it to analyse the determinants of Airbnb prices using a spatial econometrics approach.
 
 Models implemented in this project : 
 
